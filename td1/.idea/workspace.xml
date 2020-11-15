@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a65b643d-af63-4800-8f0a-e41f48a61200" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1js9RZOKcD5k4rk0xEJSlNWKy85" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="td1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a65b643d-af63-4800-8f0a-e41f48a61200" name="Default Changelist" comment="" />
+      <created>1604581927996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604581927996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="90" key="#Project_Structure" timestamp="1604581964143">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="444" y="90" key="#Project_Structure/0.0.1920.1026@0.0.1920.1026" timestamp="1604581964143" />
+    <state x="748" y="242" width="1081" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604582471561">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="748" y="242" width="1081" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1026@0.0.1920.1026" timestamp="1604582471561" />
+    <state x="1118" y="257" key="FileChooserDialogImpl" timestamp="1604582596408">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="1118" y="257" key="FileChooserDialogImpl/0.0.1920.1026@0.0.1920.1026" timestamp="1604582596408" />
+    <state x="750" y="136" width="1168" height="757" key="new project wizard" timestamp="1604582608997">
+      <screen x="0" y="0" width="1920" height="1026" />
+    </state>
+    <state x="750" y="136" width="1168" height="757" key="new project wizard/0.0.1920.1026@0.0.1920.1026" timestamp="1604582608997" />
+  </component>
+</project>
