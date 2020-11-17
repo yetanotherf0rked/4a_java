@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="td1_1.3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/td1_1_3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="td1_1.3.jar">
+        <element id="module-output" name="td1_1.3" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../td1/out/production/td1/Transport/transport.jar" />
+    </root>
+  </artifact>
+</component>
